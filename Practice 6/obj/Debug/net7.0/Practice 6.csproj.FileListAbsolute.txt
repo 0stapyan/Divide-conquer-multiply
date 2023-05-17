@@ -1,0 +1,5 @@
+/Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.csproj.AssemblyReference.cache
+/Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.AssemblyInfoInputs.cache
+/Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.AssemblyInfo.cs
+/Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.csproj.CoreCompileInputs.cache
