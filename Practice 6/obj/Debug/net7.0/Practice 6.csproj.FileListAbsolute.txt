@@ -3,3 +3,18 @@
 /Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.AssemblyInfoInputs.cache
 /Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.AssemblyInfo.cs
 /Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/Debug/net7.0/Practice 6.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\bin\Debug\net7.0\Practice 6.exe
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\bin\Debug\net7.0\Practice 6.deps.json
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\bin\Debug\net7.0\Practice 6.runtimeconfig.json
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\bin\Debug\net7.0\Practice 6.dll
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\bin\Debug\net7.0\Practice 6.pdb
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.csproj.AssemblyReference.cache
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.AssemblyInfo.cs
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.dll
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\refint\Practice 6.dll
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.pdb
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\Practice 6.genruntimeconfig.cache
+C:\Users\Gamer\Documents\gamer directories\Divide-conquer-multiply\Practice 6\obj\Debug\net7.0\ref\Practice 6.dll

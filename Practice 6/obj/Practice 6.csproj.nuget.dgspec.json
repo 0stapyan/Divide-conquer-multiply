@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ostapturash/Divide-conquer-multiply/Practice 6/Practice 6.csproj": {}
+    "C:\\Users\\Gamer\\Documents\\gamer directories\\Divide-conquer-multiply\\Practice 6\\Practice 6.csproj": {}
   },
   "projects": {
-    "/Users/ostapturash/Divide-conquer-multiply/Practice 6/Practice 6.csproj": {
+    "C:\\Users\\Gamer\\Documents\\gamer directories\\Divide-conquer-multiply\\Practice 6\\Practice 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ostapturash/Divide-conquer-multiply/Practice 6/Practice 6.csproj",
+        "projectUniqueName": "C:\\Users\\Gamer\\Documents\\gamer directories\\Divide-conquer-multiply\\Practice 6\\Practice 6.csproj",
         "projectName": "Practice 6",
-        "projectPath": "/Users/ostapturash/Divide-conquer-multiply/Practice 6/Practice 6.csproj",
-        "packagesPath": "/Users/ostapturash/.nuget/packages/",
-        "outputPath": "/Users/ostapturash/Divide-conquer-multiply/Practice 6/obj/",
+        "projectPath": "C:\\Users\\Gamer\\Documents\\gamer directories\\Divide-conquer-multiply\\Practice 6\\Practice 6.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Documents\\gamer directories\\Divide-conquer-multiply\\Practice 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ostapturash/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,9 @@
-﻿public class BigInteger
+﻿
+var gamer = new BigInteger("123456789").ToString();
+public class BigInteger
 {
     private int[] _numbers;
+    private string _numbersToString;
 
     public BigInteger(string value)
     {
@@ -14,5 +17,17 @@
             
             _numbers[i] = digit;
         }
+    }
+    
+    public override string ToString()
+    {
+        foreach (var gamer in _numbers)
+        {
+            _numbersToString += gamer;
+        }
+        
+        Console.WriteLine(_numbersToString);
+
+        return _numbersToString;
     }
 }
